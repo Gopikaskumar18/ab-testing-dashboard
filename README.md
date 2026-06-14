@@ -89,6 +89,6 @@ cat >> README.md << 'EOF'
 ### Bayesian Posterior — P(Treatment Wins) = 97.2%
 ![Bayesian Posterior](screenshots/bayesian_posterior.png)
 
-### Segment Breakdown by Device & Country
+### statistical_summary
 ![Segment Breakdown](screenshots/segment_breakdown.png)
 EOF
