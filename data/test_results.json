@@ -1,0 +1,13 @@
+{
+  "control_users": 50000,
+  "treatment_users": 50000,
+  "control_conversion_rate": 5.12,
+  "treatment_conversion_rate": 6.84,
+  "relative_lift_pct": 33.7,
+  "absolute_lift_pct": 1.72,
+  "z_statistic": 11.4978,
+  "p_value": 0.0,
+  "statistically_significant": true,
+  "cuped_variance_reduction_pct": 0.0,
+  "recommendation": "SHIP IT"
+}
